@@ -1,6 +1,6 @@
 - Select a random action
 
-- Reward an next state
+- Reward and next state
 
 - Update Q value
 
